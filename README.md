@@ -23,12 +23,12 @@ dashboard page with an index of all the notebooks.
 # Interactive online versions
 
 This is currently (Mar 2022) running on the host service provided by My Binder.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/qutip/qutip-notebooks/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)]()
     
 # Online read-only versions
 
 You can also view the notebooks online, as read-only HTML pages rendered by
-http://nbviewer.ipython.org. The notebooks are rendered also by My Binder. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/qutip/qutip-notebooks/master?filepath=index.ipynb).
+http://nbviewer.ipython.org. The notebooks are rendered also by My Binder. [![Binder](https://mybinder.org/badge_logo.svg)]().
 
 # Tutorials and lectures
 
