@@ -13,7 +13,7 @@ command in the directory that contains the files:
 
     $ jupyter notebook
     
-or, if you have an old version of IPython installed
+or, if you have an old version of IPython installed:
     
     $ ipython notebook
     
@@ -23,12 +23,12 @@ dashboard page with an index of all the notebooks.
 # Interactive online versions
 
 This is currently (Mar 2022) running on the host service provided by My Binder.
-[![Binder](https://mybinder.org/badge_logo.svg)]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/life-elixir/life-elixir_notebooks/HEAD)
     
 # Online read-only versions
 
 You can also view the notebooks online, as read-only HTML pages rendered by
-http://nbviewer.ipython.org. The notebooks are rendered also by My Binder. [![Binder](https://mybinder.org/badge_logo.svg)]().
+http://nbviewer.ipython.org. The notebooks are rendered also by My Binder. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/life-elixir/life-elixir_notebooks/HEAD).
 
 # Tutorials and lectures
 
@@ -36,7 +36,7 @@ The notebooks are organized with tutorials and lectures on [index.ipynb](index.i
 
 # Contribute
 
-You are most welcome to contribute to the QuTiP notebooks  by forking this
+You are most welcome to contribute to the Life Elixir notebooks  by forking this
 repository and sending pull requests, or filing bug reports at the
 [issues page](http://github.com/qutip/qutip-notebooks/issues), or send us bug reports,
 questions, or your proposed changes to our
